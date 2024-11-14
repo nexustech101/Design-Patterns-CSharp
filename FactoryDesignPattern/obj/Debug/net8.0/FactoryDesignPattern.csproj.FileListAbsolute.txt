@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Documents\c#\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documents\c#\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documents\c#\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documents\c#\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\c#\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.exe
+C:\Users\user\OneDrive\Documents\c#\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.deps.json
+C:\Users\user\OneDrive\Documents\c#\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.runtimeconfig.json
+C:\Users\user\OneDrive\Documents\c#\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.dll
+C:\Users\user\OneDrive\Documents\c#\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.pdb
+C:\Users\user\OneDrive\Documents\c#\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.dll
+C:\Users\user\OneDrive\Documents\c#\FactoryDesignPattern\obj\Debug\net8.0\refint\FactoryDesignPattern.dll
+C:\Users\user\OneDrive\Documents\c#\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.pdb
+C:\Users\user\OneDrive\Documents\c#\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.genruntimeconfig.cache
+C:\Users\user\OneDrive\Documents\c#\FactoryDesignPattern\obj\Debug\net8.0\ref\FactoryDesignPattern.dll
