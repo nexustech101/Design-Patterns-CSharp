@@ -15,6 +15,7 @@ obj/
 *.msi
 *.msm
 *.msp
+*.sln
 
 # JetBrains Rider
 .idea/
