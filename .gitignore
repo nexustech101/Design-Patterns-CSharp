@@ -1,0 +1,35 @@
+# .NET build artifacts
+bin/
+obj/
+
+# User-specific files
+.vscode/
+.idea/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio for Mac
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files for Visual Studio
+.vs/
+
+# .NET Core SDK and tools folder
+.nuget/
+
+# ASP.NET Core development environment
+appsettings.Development.json
